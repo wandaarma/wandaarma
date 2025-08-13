@@ -1,6 +1,6 @@
 # Hi there, I'm Wanda Armadianti 👋
 
-🎓 **Fresh Graduate in Information Systems** | 💡 **Data Enthusiast** 
+🎓 **Fresh Graduate in Information Systems** | 💡 **Data Enthusiast**  
 I’m passionate about turning data into actionable insights and building technology solutions that solve real-world problems.  
 With hands-on experience in **data analytics**, **machine learning**, and **software development**, I enjoy working on projects that combine data-driven decision-making with user-friendly applications.
 
